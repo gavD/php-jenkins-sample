@@ -1,2 +1,4 @@
 cache.properties
 build/*
+/nbproject/private/
+nbproject
